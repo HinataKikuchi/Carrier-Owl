@@ -1,11 +1,22 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.* OR cat:physics.optics OR cat:app-ph'
 
 # 検索キーワード
 keywords:
         kaggle: 3
         resnet: 3
-        anomaly detection: 1
+        nlp: 3
+        transformer: 3
+#        audio: 3
+#        anomaly detection: 1
+        photonic: 3
+        crystal: 3
+        poralized: 3
+        spectral: 3
+        images: 3
+        QNLP: 1
+        Speech Recognition: 3
+
 
 # 通知の閾値
 score_threshold: 0
