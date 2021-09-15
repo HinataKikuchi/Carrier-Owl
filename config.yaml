@@ -4,16 +4,14 @@ subject: 'cat:cs.* OR cat:physics.optics OR cat:app-ph'
 # 検索キーワード
 keywords:
         kaggle: 1
-        resnet: 1
+#        resnet: 1
         nlp: 2
         transformer: 2
 #        audio: 3
 #        anomaly detection: 1
-        photonic: 3
-        crystal: 3
-        poralized: 3
-        spectral: 3
-        images: 3
+        photonic crystal: 3
+        poralized images: 3
+        spectral images: 3
         QNLP: 1
         Speech Recognition: 3
         BERT: 1
