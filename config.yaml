@@ -3,20 +3,20 @@ subject: 'cat:cs.* OR cat:physics.optics OR cat:app-ph'
 
 # 検索キーワード
 keywords:
-        kaggle: 1
+#        kaggle: 1
 #        resnet: 1
-        nlp: 2
+#        nlp: 2
         transformer: 2
 #        audio: 3
 #        anomaly detection: 1
         photonic crystal: 3
         poralized images: 3
         spectral images: 3
-        QNLP: 1
+#        QNLP: 1
         Speech Recognition: 3
         BERT: 1
-        LSMT: 1
-        gpt: 3
+#        LSMT: 1
+        gpt3: 3
         reverse design: 3
 
 
