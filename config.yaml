@@ -6,19 +6,20 @@ keywords:
 #        kaggle: 1
 #        resnet: 1
 #        nlp: 2
-        transformer: 2
+#        transformer: 2
 #        audio: 3
 #        anomaly detection: 1
         photonic crystal: 3
-        poralized images: 3
+        polarized images: 3
         spectral images: 3
+        polarized spectral images: 3
 #        QNLP: 1
-        Speech Recognition: 3
-        BERT: 1
+#        Speech Recognition: 3
+#        BERT: 1
 #        LSMT: 1
-        gpt3: 3
+#        gpt3: 3
         reverse design: 3
-
+        optical engineering: 3
 
 
 # 通知の閾値
